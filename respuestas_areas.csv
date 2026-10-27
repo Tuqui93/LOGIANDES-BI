@@ -1,0 +1,6 @@
+﻿Área,Pregunta,Hallazgo,Decisión / siguiente paso
+Gerencia General,¿Se cumplen los objetivos?,Cumplimiento del escenario: 98.78% (meta simulada).,"Solicitar presupuestos aprobados, fijar responsables y revisar las brechas cada mes."
+Comercial,¿Dónde está la mayor actividad?,"Guayas registra el mayor valor asociado: US$ 45,583.07.",Contrastar volumen con costos y calidad; solicitar ciudad y línea de servicio para segmentar mejor.
+Operaciones,¿Dónde hay demoras o variabilidad?,Mayor tiempo medio: Loja (169.87 min). Mayor CV: Manabí (43.41%).,"Revisar rutas, distancias y canales; medir P90 y después establecer acuerdos de entrega verificables."
+Finanzas,¿Las ventas son rentables?,Margen bruto estimado: 22.64% con ratios de costo supuestos.,Conciliar ingresos netos y costos directos reales antes de evaluar márgenes oficiales.
+Atención al Cliente,¿Dónde pesa más la incidencia?,Mayor tasa: Manabí (66.29 pedidos con reclamo por cada 1.000).,Clasificar motivos y revisar evolución mensual por provincia y canal; medir reducción de la tasa.
